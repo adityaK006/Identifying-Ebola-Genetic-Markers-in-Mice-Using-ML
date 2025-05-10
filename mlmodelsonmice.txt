@@ -1,0 +1,43 @@
+Evaluating Logistic Regression...
+Classification Report for Logistic Regression:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00      3874
+           1       1.00      0.99      1.00       621
+
+    accuracy                           1.00      4495
+   macro avg       1.00      1.00      1.00      4495
+weighted avg       1.00      1.00      1.00      4495
+
+Evaluating Random Forest...
+Classification Report for Random Forest:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00      3874
+           1       1.00      1.00      1.00       621
+
+    accuracy                           1.00      4495
+   macro avg       1.00      1.00      1.00      4495
+weighted avg       1.00      1.00      1.00      4495
+
+Evaluating Support Vector Machine...
+Classification Report for Support Vector Machine:
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00      3874
+           1       1.00      0.96      0.98       621
+
+    accuracy                           0.99      4495
+   macro avg       1.00      0.98      0.99      4495
+weighted avg       0.99      0.99      0.99      4495
+
+Evaluating K-Nearest Neighbors...
+Classification Report for K-Nearest Neighbors:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00      3874
+           1       1.00      1.00      1.00       621
+
+    accuracy                           1.00      4495
+   macro avg       1.00      1.00      1.00      4495
+weighted avg       1.00      1.00      1.00      4495

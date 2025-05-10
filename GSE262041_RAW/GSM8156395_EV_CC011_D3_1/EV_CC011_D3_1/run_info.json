@@ -1,0 +1,13 @@
+{
+	"n_targets": 149384,
+	"n_bootstraps": 0,
+	"n_processed": 175460248,
+	"n_pseudoaligned": 110672782,
+	"n_unique": 42057465,
+	"p_pseudoaligned": 63.1,
+	"p_unique": 24.0,
+	"kallisto_version": "0.46.1",
+	"index_version": 10,
+	"start_time": "Fri Aug 25 11:40:02 2023",
+	"call": "kallisto quant -i Mouse.index -o O_EV_CC011_D3_1 -t 8 EV_CC011_D3_1_AATCCGGA-AACTGT_combined.R1.fastq.gz EV_CC011_D3_1_AATCCGGA-AACTGT_combined.R2.fastq.gz"
+}
